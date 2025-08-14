@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.e17c5fa3.js",
-    "static/js/453.bfa0e72c.chunk.js": "/static/js/453.bfa0e72c.chunk.js",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.e17c5fa3.js.map": "/static/js/main.e17c5fa3.js.map",
-    "453.bfa0e72c.chunk.js.map": "/static/js/453.bfa0e72c.chunk.js.map"
+    "main.css": "/jlincodes-test-app/static/css/main.f855e6bc.css",
+    "main.js": "/jlincodes-test-app/static/js/main.d6aef8bb.js",
+    "static/js/453.bfa0e72c.chunk.js": "/jlincodes-test-app/static/js/453.bfa0e72c.chunk.js",
+    "index.html": "/jlincodes-test-app/index.html",
+    "main.f855e6bc.css.map": "/jlincodes-test-app/static/css/main.f855e6bc.css.map",
+    "main.d6aef8bb.js.map": "/jlincodes-test-app/static/js/main.d6aef8bb.js.map",
+    "453.bfa0e72c.chunk.js.map": "/jlincodes-test-app/static/js/453.bfa0e72c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e17c5fa3.js"
+    "static/js/main.d6aef8bb.js"
   ]
 }
